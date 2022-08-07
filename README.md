@@ -33,3 +33,9 @@ Output: Class: A, Designation: Special
 python main.py 192.168.1.1/24
 
 Output: Class: C, Designation: Private
+
+### classes ranges
+![classes](https://imgs.search.brave.com/DNOd3nUKB-4pvXGfC3xXwElemt62Q6nHza3mk6dHytc/rs:fit:1200:543:1/g:ce/aHR0cDovLzQuYnAu/YmxvZ3Nwb3QuY29t/Ly0teWkybnZGcGF0/NC9VLTNkOEdCOUt2/SS9BQUFBQUFBQU5v/by9FamZKSUhpOGpN/NC9zMTYwMC9DbGFz/c2VzJTJCb2YlMkJJ/UC5wbmc)
+
+### Private ranges
+![private](https://imgs.search.brave.com/xhh4iYaT6-_6URHHfH6RFm-8rZvhe3bl54X70FAiPKo/rs:fit:1100:741:1/g:ce/aHR0cDovL3d3dy5s/b2dpY3VtLmNvL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE2LzA4/L1ByaXZhdGUtSVAt/QWRkcmVzcy0xLnBu/Zw)
